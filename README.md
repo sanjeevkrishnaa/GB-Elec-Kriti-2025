@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive exploration of the **Great Britain (GB) electricity market**, with a focus on data collection, analysis, and strategy simulation. Created as part of Kriti 2025, the annual inter-hostel technical competition at IIT Guwahati.
 
----
+ ---
 
 ## 📁 Repository Contents
 
