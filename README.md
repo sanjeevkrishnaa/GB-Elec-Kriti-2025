@@ -1,4 +1,4 @@
-# ⚡ GB Electricity Market – Kriti 2025 Project
+# ⚡ GB Electricity Market – Kriti 2025 Project 
 
 This repository presents a full-stack data science pipeline exploring the **Great Britain (GB) Electricity Market**, created for the **Kriti 2025** technical competition at IIT Guwahati. It combines live data collection, in-depth exploratory analysis, and quantitative modeling to build and backtest trading strategies on electricity price movements.
 
